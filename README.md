@@ -21,7 +21,7 @@ Receive mobile money payments from any country and carrier on your website with 
 
 LocalPay - Easy Offline Payments via WooCommerce (LocalPay, Cash App, Western Union, MoneyGram)
 
-For more details about this woocommerce extension, **please visit [LocalHost Digital](https://localhostkmer.xyz/localpay)**
+For more details about this woocommerce extension, **please visit [LocalHost Digital](https://localhostkmer.xyz/)**
 
 
 = PRO or customized version =
@@ -50,7 +50,7 @@ This plugin is compatible with **any carrier in any country** since all it does 
 
 = Using cPanel or FTP =
 
-* Download ‘LocalPay - Offline Payment Woocommerce Extension’ from [LocalHost Digital](https://localhostkmer.xyz/localpay)
+* Download ‘LocalPay - Offline Payment Woocommerce Extension’ from [LocalHost Digital](https://localhostkmer.xyz/)
 * Unzip ‘woocommerce-localpay-extension.zip’ file and
 * Upload ‘woocommerce-localpay-extension folder to the “/wp-content/plugins/” directory.
 * Activate the plugin through the “Plugins” menu in WordPress.
